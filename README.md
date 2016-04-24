@@ -9,3 +9,5 @@ Contact me here! I won't bite :P http://steamcommunity.com/id/mypetunicorn
 
 Have fun with the HUD!
 It's loaded and ready for competitive so you should be good to go!
+
+ONLY WORKS ON 16:9!
