@@ -1,4 +1,8 @@
 # Jar-HUD
+ENABLE MINIMAL HUD IN ADV. OPTIONS>HUD OPTIONS> ENABLE MINIMAL HUD
+
+**ENABLE MINIMAL HUD FOR THIS TO WORK!!!**
+
 A HUD variant made by me, Jar!
 
 Put the file 'JAR HUD' here
